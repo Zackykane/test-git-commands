@@ -11,7 +11,7 @@ using the following steps
 
 5. git push origin main
 
-Test suceesful
+Test Suceesful
 
 This is Test 2. Updating a repository 
 using the following steps
@@ -20,8 +20,17 @@ using the following steps
 
 2. git add .
 
-3. git commit -m "test 2"
+3. git commit -m "message"
 
 4. git push origin main
 
-Test 
+Test Sucessful
+
+This is test 3 of cloning a repository
+using the following steps
+
+1. git init
+
+2. git clone <url>
+
+Test Sucsesful  
